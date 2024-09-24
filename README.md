@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicmaybevik
+- 👋 Hi, I’m @victor
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning the foundations of C++
 - 💞️ I’m looking to collaborate on starter projects
